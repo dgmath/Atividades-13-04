@@ -16,7 +16,7 @@ bool repetir = true;
 char nome ;
 do{
    Console.WriteLine($"Insira qual tipo de combustivel você quer: a para álcool ou g para gasolina");
-    nome = char.Parse(Console.ReadLine()!); 
+    nome = char.Parse(Console.ReadLine()!.ToUpper()); 
 
 if(nome == 'a')
 {
