@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\Desafio-17-04.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\Desafio-17-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\Desafio-17-04.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\Desafio-17-04.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\Desafio-17-04.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\bin\Debug\net7.0\Desafio-17-04.exe
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\bin\Debug\net7.0\Desafio-17-04.deps.json
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\bin\Debug\net7.0\Desafio-17-04.runtimeconfig.json
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\bin\Debug\net7.0\Desafio-17-04.dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\bin\Debug\net7.0\Desafio-17-04.pdb
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\Desafio-17-04.dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\refint\Desafio-17-04.dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\Desafio-17-04.pdb
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\Desafio-17-04.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio-17-04\obj\Debug\net7.0\ref\Desafio-17-04.dll

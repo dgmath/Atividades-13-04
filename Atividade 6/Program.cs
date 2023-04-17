@@ -3,27 +3,38 @@
 //pessoa (para efetuar uma busca) e depois escrever a mensagem ACHEI, se o nome estiver
 //entre os 10 nomes lidos anteriormente (guardados no vetor), ou NÃO ACHEI caso contrário.
 
-string[] nomes = new string[10];
+string[] nomes = new string[3];
 
-    for (int i = 0; i < 10; i++)
+bool nomeEncontrado = false;
+
+    for (int i = 0; i < 3; i++)
     {
         Console.WriteLine($"Insira o {i + 1}º nome: ");
         nomes[i] = Console.ReadLine()!;
     }
-
         Console.WriteLine($"Insira um nome para saber se ele esta na lista:");
-        string resposta = Console.ReadLine()!;
+        string nomeBuscado = Console.ReadLine()!;
+
         //Console.WriteLine($"{nomes.Contains(resposta)}");
-        if(nomes.Contains(resposta) == true)
+        foreach (string nome in nomes)
         {
-            Console.WriteLine($"ACHEI! Seu nome esta na lista.");
+         if( nome == nomeBuscado)
+         {
+            nomeEncontrado = true;
+             break;
+         }
+        //  else{
+        //      Console.WriteLine($"NÃO ACHEI.");
+        //      break;
+        //  }
         }
-        else{
-            Console.WriteLine($"NÃO ACHEI.");
-        }
-        //static string Resultado(nomes.Contains(resposta) == true? "Achei": "Não Achei") 
-       
-        
+Console.WriteLine(nomeEncontrado == true ? "ACHEI" : "NÃO ACHEI");
+
+
+    // string resultado = resposta == true ? "ACHEI" : "NÃO ACHEI";
+
+
+    //static string Resultado(nomes.Contains(resposta) == true? "Achei": "Não Achei") 
         
         
 
