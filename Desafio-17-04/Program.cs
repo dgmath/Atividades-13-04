@@ -12,6 +12,21 @@
 
 // Ao cadastrar uma passagem ao final o sistema deverá perguntar se gostaria de cadastrar uma nova passagem caso contrário voltar ao menu anterior(S/N).
 
+static bool EfetuarLogin(string senha)
+{
+        if (senha == "29042006")
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+}
+string[] Nome = new string[2];
+string[] Origem = new string[2];
+string[] Destino = new string[2];
+string[] Data = new string[2];
 
 Console.WriteLine($@"
     -------------------------------------
@@ -21,42 +36,26 @@ Console.WriteLine($@"
     |   seu nome de usuario e senha.    |
     -------------------------------------
 ");
-
-
-
-static void EfetuarLogin()
-{
     Console.WriteLine($"Por favor insira seu nome de usuario:");
     string usuario = Console.ReadLine()!;
-
-    bool senha = true;
+    bool senhaValida;
     do
     {
-        Console.WriteLine($"Por favor insira sua senha:");
-        int resposta = int.Parse(Console.ReadLine()!);
-        if (resposta == 29042006)
-        {
-            senha = true;
-        }
-        else
-        {
-            senha = false;
-            Console.WriteLine($"Senha incorreta. Por fvor insira novamente.");
-        }
+    Console.WriteLine($"Por favor insira sua senha:");
+    string senha = Console.ReadLine()!;
+    senhaValida = EfetuarLogin(senha);
 
-    } while (senha == false);
-}
-EfetuarLogin();
+    } while (senhaValida != true);
+//EfetuarLogin(); 
+
+
+
 
 //cadastro
-    string[] Nome = new string[] {};
-    string[] Origem = new string[] {};    
-    string[] Destino = new string[] {};
-    string[] Data = new string[] {};
-static void Cadastro()
+static void Cadastro(string[] Nome, string[] Origem, string[] Destino, string[] Data, int posicao)
 {
 
-    for (var i = 0; i < 5; i++)
+    for (var i = 0; i < Nome.Length; i++)
     {
         Console.WriteLine($"Para cadastrar sua passagem é preciso inserir o nome do passageiro:");
         Nome[i] = Console.ReadLine()!;
@@ -72,27 +71,92 @@ static void Cadastro()
     }
 
 }
-Cadastro();
+//Cadastro(Nome, Origem, Destino, Data, 0);
 
-static string Listar()
+static void Listar(string[] Nome, string[] Origem, string[] Destino, string[] Data, int posicao)
 {
     for (var i = 0; i < 5; i++)
     {
         Console.WriteLine($@"
-        {Nomes[i]}
+        {Nome[i]}
         {Origem[i]}
         {Destino[i]}
         {Data[i]}
         ");
-        
+
     }
 }
+//Listar(Nome, Origem, Destino, Data, 0);
+// 1- Cadastrar passagem
+// 2- Listar Passagens
+// 0- Sair
 
-switch (value)
+// menu
+
+int qtdCadastro;
+
+
+char opcao;//null
+info:
+do
 {
-    case value1:
-        break;
-    default:
-        break;
-}
+    Console.Clear();//limpa o console
+    Console.WriteLine($@"
+    ---------------------------------
+    |       BEM VINDO AO MENU       |
+    | Escolha uma das opções abaixo |
+    |     1- Cadastrar passagem     |
+    |     2- Listar Passagens       |
+    |     0- Sair                   |
+    ---------------------------------
+");
+     opcao = char.Parse(Console.ReadLine()!);
 
+    switch (opcao)
+    {
+        case '1':
+            Console.WriteLine($@"
+    ----------------------------------------
+    | Bem vindo ao cadastro de passageiros |
+    | Quantas pessoas você quer cadastrar? |
+    | (Digite com números)                 |
+    ----------------------------------------
+    ");
+            qtdCadastro = int.Parse(Console.ReadLine()!);
+
+            Cadastro(Nome, Origem, Destino, Data, 0);
+            Console.WriteLine($"Deseja adicionar mais algum passageiro? Digite s para sim e n para não.");
+            char respostaC = char.Parse(Console.ReadLine()!);
+            if (respostaC == 's')
+            {
+                qtdCadastro++;
+                Cadastro(Nome, Origem, Destino, Data, 0);
+            }
+            else
+            {
+                goto info;
+            }
+            break;
+
+        case '2':
+            Listar(Nome, Origem, Destino, Data, 0);
+            Console.WriteLine($"Deseja voltar? s para sim e n para não.");
+            char resposta2 = char.Parse(Console.ReadLine()!);
+            if(resposta2 == 's')
+            {
+                goto info;
+            }
+            else{
+                Console.Clear();
+            }
+            break;
+
+        case '0':
+            goto info;
+
+
+        default:
+            Console.WriteLine($"opção invalida");
+            break;
+    }
+} while (opcao != '0');
