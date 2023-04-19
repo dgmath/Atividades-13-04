@@ -40,8 +40,8 @@ Console.WriteLine($"Menu de opções");
 Console.WriteLine($@" 
     Selecione uma das opções
     [1] - Cadastrar
-    [2] - Cadastrar
-    [0] - Cadastrar
+    [2] - Listar
+    [0] - Sair
     ");
 
 string opcao = Console.ReadLine()!;

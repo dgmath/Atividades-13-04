@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\bin\Debug\net7.0\Desafio dia 17(19).exe
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\bin\Debug\net7.0\Desafio dia 17(19).deps.json
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\bin\Debug\net7.0\Desafio dia 17(19).runtimeconfig.json
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\bin\Debug\net7.0\Desafio dia 17(19).dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\bin\Debug\net7.0\Desafio dia 17(19).pdb
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\Desafio dia 17(19).csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\Desafio dia 17(19).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\Desafio dia 17(19).AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\Desafio dia 17(19).AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\Desafio dia 17(19).csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\Desafio dia 17(19).dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\refint\Desafio dia 17(19).dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\Desafio dia 17(19).pdb
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\Desafio dia 17(19).genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Desafio dia 17(19)\obj\Debug\net7.0\ref\Desafio dia 17(19).dll
