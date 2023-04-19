@@ -13,9 +13,9 @@
 //Incremente o que achar necessário. Utilize sua lógica e sua criatividade.
 
 
-string[] nome = new string[2];
-float[] preço = new float[2];
-bool[] promocao = new bool[2];
+string[] nome = new string[10];
+float[] preço = new float[10];
+bool[] promocao = new bool[10];
 
 //Senha
 static bool Login(string senha)
