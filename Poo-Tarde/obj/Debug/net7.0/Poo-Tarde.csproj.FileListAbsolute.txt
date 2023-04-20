@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Poo-Tarde\bin\Debug\net7.0\Poo-Tarde.exe
+C:\Users\53025781823\Desktop\Poo-Tarde\bin\Debug\net7.0\Poo-Tarde.deps.json
+C:\Users\53025781823\Desktop\Poo-Tarde\bin\Debug\net7.0\Poo-Tarde.runtimeconfig.json
+C:\Users\53025781823\Desktop\Poo-Tarde\bin\Debug\net7.0\Poo-Tarde.dll
+C:\Users\53025781823\Desktop\Poo-Tarde\bin\Debug\net7.0\Poo-Tarde.pdb
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\Poo-Tarde.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\Poo-Tarde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\Poo-Tarde.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\Poo-Tarde.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\Poo-Tarde.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\Poo-Tarde.dll
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\refint\Poo-Tarde.dll
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\Poo-Tarde.pdb
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\Poo-Tarde.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Poo-Tarde\obj\Debug\net7.0\ref\Poo-Tarde.dll
