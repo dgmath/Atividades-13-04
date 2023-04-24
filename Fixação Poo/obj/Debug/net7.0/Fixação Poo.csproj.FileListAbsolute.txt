@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\bin\Debug\net7.0\Fixação Poo.exe
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\bin\Debug\net7.0\Fixação Poo.deps.json
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\bin\Debug\net7.0\Fixação Poo.runtimeconfig.json
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\bin\Debug\net7.0\Fixação Poo.dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\bin\Debug\net7.0\Fixação Poo.pdb
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\Fixação Poo.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\Fixação Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\Fixação Poo.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\Fixação Poo.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\Fixação Poo.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\Fixação Poo.dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\refint\Fixação Poo.dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\Fixação Poo.pdb
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\Fixação Poo.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Fixação Poo\obj\Debug\net7.0\ref\Fixação Poo.dll

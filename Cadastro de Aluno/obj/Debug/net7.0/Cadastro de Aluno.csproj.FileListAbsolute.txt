@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\bin\Debug\net7.0\Cadastro de Aluno.exe
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\bin\Debug\net7.0\Cadastro de Aluno.deps.json
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\bin\Debug\net7.0\Cadastro de Aluno.runtimeconfig.json
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\bin\Debug\net7.0\Cadastro de Aluno.dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\bin\Debug\net7.0\Cadastro de Aluno.pdb
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\Cadastro de Aluno.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\Cadastro de Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\Cadastro de Aluno.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\Cadastro de Aluno.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\Cadastro de Aluno.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\Cadastro de Aluno.dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\refint\Cadastro de Aluno.dll
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\Cadastro de Aluno.pdb
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\Cadastro de Aluno.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Atividades-13-04\Cadastro de Aluno\obj\Debug\net7.0\ref\Cadastro de Aluno.dll
