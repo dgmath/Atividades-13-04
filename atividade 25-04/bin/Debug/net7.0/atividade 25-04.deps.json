@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "atividade 25-04/1.0.0": {
+        "runtime": {
+          "atividade 25-04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atividade 25-04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
