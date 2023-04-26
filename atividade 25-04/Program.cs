@@ -51,7 +51,7 @@ volta:
             goto volta;
     }
 }
-else if (c1.ligado == false)
+else
 {
     Console.WriteLine($"Por favor ligue o aparelho para prosseguir com as funcionalidades. Digite 1 para ligar ou n para cancelar");
     string resultado = Console.ReadLine()!.ToUpper();
@@ -60,43 +60,9 @@ else if (c1.ligado == false)
         case "1":
             c1.Ligar();
             c1.ligado = true;
-            if (c1.ligado == true)
-{
-volta:
-    Console.WriteLine($@"
----------------------------------------
-|  Bem vindo. Selecione oque deseja:  |
-|  [1] - Fazer ligação                |
-|  [2] - Enviar mensagem              |
-|  [0] - Desligar                     |
----------------------------------------
-");
-    string selecao = Console.ReadLine()!;
-    switch (selecao)
-    {
-        case "1":
-            c1.FazerLigacao();
-            break;
-        case "2":
-            c1.EnviarMensagem();
-            break;
-        case "0":
-            c1.Desligar();
-            break;
-
-        default:
-            Console.WriteLine($"Por favor insira algo valido.");
-            goto volta;
-    }
-}
-            break;
-        default:
+            c1.Inicio();
             break;
     }
-}
-else
-{
-    Console.WriteLine($"insira algo valido");
 }
 
 

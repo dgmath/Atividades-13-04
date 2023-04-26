@@ -23,5 +23,66 @@ namespace atividade_25_04
         {
             Console.WriteLine($"Enviando mensagem...");
         }
+
+        public void Inicio()
+        {
+            if (ligado == true)
+            {
+             volta:
+                Console.WriteLine($@"
+                ---------------------------------------
+                |  Bem vindo. Selecione oque deseja:  |
+                |  [1] - Fazer ligação                |
+                |  [2] - Enviar mensagem              |
+                |  [0] - Desligar                     |
+                ---------------------------------------
+                ");
+                string selecao = Console.ReadLine()!;
+                switch (selecao)
+                {
+                    case "1":
+                        FazerLigacao();
+                        break;
+                    case "2":
+                        EnviarMensagem();
+                        break;
+                    case "0":
+                        Desligar();
+                        break;
+
+                    default:
+                        Console.WriteLine($"Por favor insira algo valido.");
+                        goto volta;
+                }
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
     }
 }
